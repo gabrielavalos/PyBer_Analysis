@@ -1,7 +1,7 @@
 # PyBer_Analysis
 python, pandas, numpy, matlablib
 ## Overview of Analysis 
-Explain the purpose of the new analysis.
+The purpose of this analysis is to visualize how ride-sharing data varies by city type.
 ## Results 
 Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 <br>
